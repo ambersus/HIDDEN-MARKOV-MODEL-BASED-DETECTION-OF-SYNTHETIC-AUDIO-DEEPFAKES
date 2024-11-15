@@ -17,6 +17,7 @@ Modify File Paths:
 In the script, update the data_folder_real and data_folder_fake variables to point to the correct locations of your audio files:
 
 data_folder_real = r"C:\path\to\REAL"
+<br>
 data_folder_fake = r"C:\path\to\FAKE"
 
 Run the Code:
