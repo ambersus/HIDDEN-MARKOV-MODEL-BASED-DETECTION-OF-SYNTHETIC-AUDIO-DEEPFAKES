@@ -1,6 +1,7 @@
 # HIDDEN-MARKOV-MODEL-BASED-DETECTION-OF-SYNTHETIC-AUDIO-DEEPFAKES
 
 This project utilizes Hidden Markov Models (HMM) and Mel-Frequency Cepstral Coefficients (MFCCs) to classify audio files into two categories: "Real" and "Fake". The classification is based on the audio features extracted using MFCCs, which are then used to train an HMM model for prediction.
+This project used the dataset from : https://www.kaggle.com/datasets/birdy654/deep-voice-deepfake-voice-recognition
 <br><br>
 The code performs the following tasks:
 <br><br>
